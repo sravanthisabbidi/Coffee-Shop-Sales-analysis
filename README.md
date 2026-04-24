@@ -40,5 +40,5 @@ This project demonstrates my ability to:
 - Generate actionable insights
 
 ## 🔗 Connect with Me
-- Fiverr: (add your link)
-- LinkedIn: (add if available)
+
+- LinkedIn: www.linkedin.com/in/sravanthi-sabbidi
